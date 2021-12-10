@@ -7,7 +7,7 @@ courseName: Computational Forensics and AI
 subtitle: 11488/11688/11788 — Spring 2022
 
 # baseurl is the same as the name of the repository
-baseurl: /compfor21
+baseurl: /compfor22
 
 # url where the required reading is available to download
 docsUrl: "" 
