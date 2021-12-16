@@ -36,7 +36,7 @@ With new AI-based technologies that power almost all activities in the digital w
 
 ## <span style="color:red"> IMPORTANT INFORMATION: </span> 
 
-### This semesters version of the course has the following prerequisites : 15744 (Computer Networks) OR 11-775 (Large Scale Multimedia Analysis) OR 18-491/18-691 (Digital Signal Processing) OR 18290 (Signals and Systems). If you have questions about these prerequisites please email the instructors rsingh@cs.cmu.edu or ian.lane@sv.cmu.edu 
+### This semester's version of the course has the following desired (but not enforced) prerequisites : 15744 (Computer Networks) OR 11-775 (Large Scale Multimedia Analysis) OR 18-491/18-691 (Digital Signal Processing) OR 18290 (Signals and Systems). If you have questions about these prerequisites or would like to find out how to navigate this course without them, please email the instructors rsingh@cs.cmu.edu or ian.lane@sv.cmu.edu. The homeworks and quizzes may not be administered as planned this semester, due to serious setbacks. They may be replaced entirely by periodic oral exams or projects. If you are planning on taking this course, please be prepared for this change.
 
 
 ## Basic course structure
@@ -46,18 +46,18 @@ There will be 14 weeks of lectures. A different forensic subarea will be covered
 
 **Week 1:** Introduction\\
 **Week 2:** Network Forensics\\
-**Week 3:** Dark Web Forensics (HW1 released)\\
+**Week 3:** Dark Web Forensics \\
 **Week 4:** Computer Forensics\\
-**Week 5:** Artificial Intelligence, Machine Learning and Deep Learning\\
-**Week 6:** Artificial Intelligence, Machine Learning and Deep Learning (HW2 released)\\
+**Week 5:** Artificial Intelligence, Machine Learning and Deep Learning (+ Exams)\\
+**Week 6:** Digital Fingerprint Analysis \\
 **Week 7:** Text and Social Media Forensics\\
 **Week 8:** Audio Forensics\\
-**Week 9:** Image Forensics (HW3 released)\\
+**Week 9:** Image Forensics \\
 **Week 10:** Video Forensics\\
 **Week 11:** Steganography\\
-**Week 12:** Cryptography (HW4 released)\\
+**Week 12:** Cryptography \\
 **Week 13:** DeepFakes: generation and tracking\\
-**Week 14:** Class Presentations
+**Week 14:** Class Presentations and Exams
 
 A more comprehensive syllabus can be found [here](https://drive.google.com/file/d/1IXKJdgz4U-E8Pv9wlv_Yqlz9KZqFrS26/view?usp=sharing). 
 
