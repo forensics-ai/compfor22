@@ -28,8 +28,6 @@ With new AI-based technologies that power almost all activities in the digital w
 		   [Ian Lane](https://engineering.cmu.edu/directory/bios/lane-ian.html) (ian.lane@sv.cmu.edu)
 
 **TAs:**         
-		 Zhenzhen Liu (zhenzhel@andrew.cmu.edu)\\
-		 [Shahan Ali Memon](https://nyuad.nyu.edu/en/research/postdoctoral-research/researchers/research-bios/shahan-ali-memon.html) (samemon@andrew.cmu.edu) \\
 		 [Hira Dhamyal](https://www.linkedin.com/in/hiradhamyal/)(hyd@andrew.cmu.edu) \\
 		 [Ankit Shah](https://ankitshah009.github.io/) (aps1@andrew.cmu.edu)\\
 		
